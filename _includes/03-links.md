@@ -1,1 +1,1 @@
-[personalGitHub] (https://github.com/alicespringfeld)
+[GitHub](https://github.com/alicespringfeld)
